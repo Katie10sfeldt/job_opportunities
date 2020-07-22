@@ -1,6 +1,6 @@
-## Saving Job Opportunites in Web Development
+# Saving Job Opportunites in Web Development
 
-1. [Taco Truck Creative](http://tacotruckcreative.com/)
+1.[Taco Truck Creative](http://tacotruckcreative.com/)
 
 Job posting: [Frontend Developer](http://tacotruckcreative.com/careers/frontend-developer-engineer/)
 
@@ -25,7 +25,7 @@ Preferred:
 - Laravel or Symfony frameworks
 - Knowledge of Heroku or AWS platforms.
 
-2. [ClickUp](https://clickup.com/)
+2.[ClickUp](https://clickup.com/)
 
 Job posting: [Frontend Engineer](https://clickup.com/careers/frontend-engineer)
 
@@ -36,7 +36,7 @@ Stack used by ClickUp:
 - Redux xtyle management (Ngrx preferably) Typescript and RxJs
 - Git
 
-3. [1POINT21 Interactive](https://www.1point21interactive.com/)
+3.[1POINT21 Interactive](https://www.1point21interactive.com/)
 
 Job posting: [Junior Web Developer](https://www.1point21interactive.com/careers/jr-web-developer/)
 
